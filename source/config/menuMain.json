@@ -1,0 +1,116 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "presentacion",
+    "title": "1. Presentación / introducción: el agua y su calidad",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "presentacion",
+        "title": "1.1 El agua y su calidad",
+        "anchor": "11"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "aislamiento",
+    "title": "2. Importancia del alistamiento de toma de muestras",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "muestreo",
+    "title": "3. Bases conceptuales de muestreo",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "muestreo",
+        "title": "3.1 Tipos y técnicas de muestreo",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "muestreo",
+        "title": "3.2 Tamaño de la muestra",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "muestreo",
+        "title": "3.3 Tipos de ensayos: ensayos in situ",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "muestreo",
+        "title": "3.4 Puntos de tomas de muestras",
+        "anchor": "34"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "muestreo",
+        "title": "3.5 Partes del plan de muestreo",
+        "anchor": "35"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "laboratorio",
+    "title": "4. Instrumentos de laboratorio",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "laboratorio",
+        "title": "4.1 Recipientes, reactivos e insumos",
+        "anchor": "41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "laboratorio",
+        "title": "4.2 Equipos y herramientas",
+        "anchor": "42"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "capacitacion",
+    "title": "5. Capacitación y SST en muestreo",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "capacitacion",
+        "title": "5.1 Formación y evaluación ",
+        "anchor": "51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "capacitacion",
+        "title": "5.2 Seguridad y salud en el trabajo de muestreo",
+        "anchor": "52"
+      }
+    ]
+  }
+]
